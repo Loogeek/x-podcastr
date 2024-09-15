@@ -1,7 +1,7 @@
 "use client";
 // import PodcastCard from '@/components/PodcastCard'
 // import { useQuery } from "convex/react";
-// import { api } from "@/convex/_generated/api";
+// import { api } from "@/../convex/_generated/api";
 
 const Home = () => {
   // const trendingPodcasts = useQuery(api.podcasts.getTrendingPodcasts);
